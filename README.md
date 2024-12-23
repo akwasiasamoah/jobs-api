@@ -34,7 +34,7 @@ This application provides functionality for user authentication and job manageme
 2. Install dependencies:
 
    ```bash
-   cd job-management
+   cd job-api
    npm install
    ```
 
