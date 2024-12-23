@@ -28,7 +28,7 @@ This application provides functionality for user authentication and job manageme
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akwasiasamoah/job-management.git
+   git clone https://github.com/akwasiasamoah/jobs-api.git
    ```
 
 2. Install dependencies:
